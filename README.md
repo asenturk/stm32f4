@@ -1,1 +1,1 @@
-# stm32f4 DISCOVERY Kartı
+# STM32F4 Discovery Kartı ile ARM Mikrokontrolcü Programlama
